@@ -26,19 +26,19 @@ I am curious about anything related to IT from scripting & programming to networ
 ## EDUCATION & CERTIFICATIONS
 
 **Cisco Certifications :**
-CCNA (Cisco Certified Network Associate)
+<tr>CCNA (Cisco Certified Network Associate)</tr>
 
 **TryHackMe certifications :**
-Beginner Learning Path
-Introduction to Cyber Security Learning Path
-Pre-Security Learning Path
-Web fundamentals Learning Path
-Jr Penetration Tester Learning Path
-CompTIA Pentest+ Learning Path
-Red Teaming Learning Path (Work-in-progress)
+<tr>Beginner Learning Path</tr>
+<tr>Introduction to Cyber Security Learning Path</tr>
+<tr>Pre-Security Learning Path</tr>
+<tr>Web fundamentals Learning Path</tr>
+<tr>Jr Penetration Tester Learning Path</tr>
+<tr>CompTIA Pentest+ Learning Path</tr>
+<tr>Red Teaming Learning Path (Work-in-progress)</tr>
 
 **HackTheBox certifications :**
-Certified Penetration Testing Specialist from HackTheBox (Work-in-progress)
+<tr>Certified Penetration Testing Specialist from HackTheBox (Work-in-progress)</tr>
 
 <!--
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
