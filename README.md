@@ -11,8 +11,8 @@ I am curious about anything related to IT from scripting & programming to networ
 
 *A glimpse of some of the projects I've been working on.*
 
-**Installing a Ubuntu server and configuring Firewall rules using ufw**
-<!-- Give a link to the documentation of the project -->
+**Installing a Ubuntu server and configuring Firewall rules using UFW**
+<!-- Give a link to the documentation for every project -->
 
 **Building a home network with PacketTracer**
 
