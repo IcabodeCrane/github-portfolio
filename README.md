@@ -4,7 +4,7 @@ Hello! I'm Abdenasser Samdi, an Ethical Hacker in the making, currently working 
 
 <!-- Mention you top relevant skills & interests here -->
 # WHAT I DO
-I am curious about anything related to IT from scripting & programming to networking (I am CCNA certified), with a preference for security. I constantly work to improve my knowledge and technical abilities.
+I am curious about anything related to IT from scripting & programming to networking (I am CCNA certified), with a interest for security & hacking. I constantly work to improve my knowledge and technical abilities.
 
 <!-- Section 2: List 3-4 key projects-->
 # MY PORTFOLIO 
