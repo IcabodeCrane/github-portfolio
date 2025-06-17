@@ -26,7 +26,7 @@ I am curious about anything related to IT from scripting & programming to networ
 ## EDUCATION & CERTIFICATIONS
 
 **Cisco Certifications :**
-<tr>CCNA (Cisco Certified Network Associate)</tr>
+<ul>CCNA (Cisco Certified Network Associate)</ul>
 
 **TryHackMe certifications :**
 <ul>
@@ -40,7 +40,7 @@ I am curious about anything related to IT from scripting & programming to networ
 </ul>
 
 **HackTheBox certifications :**
-<tr>Certified Penetration Testing Specialist from HackTheBox (Work-in-progress)</tr>
+<ul>Certified Penetration Testing Specialist from HackTheBox (Work-in-progress)</ul>
 
 <!--
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
