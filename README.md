@@ -29,13 +29,13 @@ I am curious about anything related to IT from scripting & programming to networ
 <tr>CCNA (Cisco Certified Network Associate)</tr>
 
 **TryHackMe certifications :**
-<tr>Beginner Learning Path</tr>
-<tr>Introduction to Cyber Security Learning Path</tr>
-<tr>Pre-Security Learning Path</tr>
-<tr>Web fundamentals Learning Path</tr>
-<tr>Jr Penetration Tester Learning Path</tr>
-<tr>CompTIA Pentest+ Learning Path</tr>
-<tr>Red Teaming Learning Path (Work-in-progress)</tr>
+<li>Beginner Learning Path</li
+<li>Introduction to Cyber Security Learning Path</li
+<li>Pre-Security Learning Path</li
+<li>Web fundamentals Learning Path</li
+<li>Jr Penetration Tester Learning Path</li
+<li>CompTIA Pentest+ Learning Path</li
+<li>>Red Teaming Learning Path (Work-in-progress)</li
 
 **HackTheBox certifications :**
 <tr>Certified Penetration Testing Specialist from HackTheBox (Work-in-progress)</tr>
@@ -86,4 +86,4 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/abdenasser-samdi-b55447122/)">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
-</table>
+</table>-->
