@@ -8,7 +8,7 @@ I am curious about anything related to IT from scripting & programming to networ
 
 <!-- Section 2: List 3-4 key projects-->
 # MY PORTFOLIO 
-
+## PROJECTS
 *A glimpse of some of the projects I've been working on.*
 
 **Installing a Ubuntu server and configuring Firewall rules using UFW**
