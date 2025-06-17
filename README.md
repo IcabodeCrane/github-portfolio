@@ -32,13 +32,13 @@ I am curious about anything related to IT from scripting & programming to networ
 
 **TryHackMe certifications :**
 <ul>
-  <li>Beginner Learning Path
-  <li>Introduction to Cyber Security Learning Path
-  <li>Pre-Security Learning Path
-  <li>Web fundamentals Learning Path
-  <li>Jr Penetration Tester Learning Path
-  <li>CompTIA Pentest+ Learning Path
-  <li>Red Teaming Learning Path (Work-in-progress)
+  <li>Beginner Learning Path</li>
+  <li>Introduction to Cyber Security Learning Path</li>
+  <li>Pre-Security Learning Path</li>
+  <li>Web fundamentals Learning Path</li>
+  <li>Jr Penetration Tester Learning Path</li>
+  <li>CompTIA Pentest+ Learning Path</li>
+  <li>Red Teaming Learning Path (Work-in-progress)</li>
 </ul>
 
 **HackTheBox certifications :**
