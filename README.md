@@ -16,7 +16,7 @@ I am curious about anything related to IT from scripting & programming to networ
 
 **Building a home network with PacketTracer**
 
-**Building a SIEM for secuirty threats analysis**
+**Building a SIEM for security threats analysis**
 
 **Building a HoneyPot**
 
