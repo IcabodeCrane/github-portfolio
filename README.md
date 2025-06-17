@@ -6,13 +6,40 @@ Hello! I'm Abdenasser Samdi, an Ethical Hacker in the making, currently working 
 # WHAT I DO
 I am curious about anything related to IT from scripting & programming to networking (I am CCNA certified), with a preference for security. I constantly work to improve my knowledge and technical abilities.
 
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+<!-- Section 2: List 3-4 key projects-->
+# MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Setting up a Ubuntu server**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Installing a Ubuntu server and configuring Firewall rules using ufw**
+<!-- Give a link to the documentation of the project -->
+
+**Building a home network with PacketTracer**
+
+**Building a SIEM for secuirty threats analysis**
+
+**Building a HoneyPot**
+
+**Building a SOC analysis HomeLab**
+
+<!-- Section 3: List your certifications -->
+## EDUCATION & CERTIFICATIONS
+
+**Cisco Certifications :**
+CCNA (Cisco Certified Network Associate)
+
+**TryHackMe certifications :**
+Beginner Learning Path
+Introduction to Cyber Security Learning Path
+Pre-Security Learning Path
+Web fundamentals Learning Path
+Jr Penetration Tester Learning Path
+CompTIA Pentest+ Learning Path
+Red Teaming Learning Path (Work-in-progress)
+
+**HackTheBox certifications :**
+Certified Penetration Testing Specialist from HackTheBox (Work-in-progress)
+
 <!--
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
