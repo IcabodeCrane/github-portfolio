@@ -1,3 +1,3 @@
 # My Portfolio
 
-I am ethical hacker in the making
+I am an ethical hacker in the making, currently working on my CPTS
